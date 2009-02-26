@@ -60,3 +60,6 @@ Change log:
 
 Cheers,
 ashbb (Satoshi Asakawa)
+
+Cheers,
+Hello
